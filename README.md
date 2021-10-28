@@ -77,7 +77,7 @@ interaction[n_] := Module[{i, j, l1, l2, l3, eXpression1, eXpression2},
        1, n}];
     l3 = Table[
       If[i < j, 
-       Apply[KroneckerProduct, ReplacePart[l1, {{i}, {j}} -> \[Sigma]]], 
+       Apply[KroneckerProduct, ReplacePart[l1, {{i}}, {{j}} -> \[Sigma]]], 
        0], {i, 1, n}, {j, 1, n}];
     eXpression1 = Total[Total[l2*l3]];
     (*Testing: one can check here the correct tensor product expression*)
