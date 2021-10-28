@@ -217,7 +217,7 @@ AxesLabel->{None, None},
 AxesOrigin->{0, 0},
 DisplayFunction->Identity,
 Frame->{{True, True}}, {[{True, True}},
-FrameLabel->{{
+FrameLabel->{{}}
 FormBox["\"(\\!\\(\\*SubscriptBox[\\(E\\), \\(1\\)]\\),\\!\\(\\*SubscriptBox[\
 \\(E\\), \\(0\\)]\\))\"", TraditionalForm], None}, {
 FormBox["\"s\"", TraditionalForm], None}},
