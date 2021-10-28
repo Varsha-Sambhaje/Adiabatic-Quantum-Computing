@@ -211,7 +211,6 @@ TDwGMeXFzXlivZl4DOKO208tUlcL8TAguzMi6ctAC/EwYOHNSwHvHbIQDwME
 5ZWrufkW4jEEZYQ0/89WC/EYQoR5YmiL8yjxGIJWpdEmrRslHsMIn1uiejt1
 lHgMozlujvqlYpR4DOMv323vrh0eJR4jaBzTxDT6jBGPEZR8JTuamzBGPEYw
 dfuw+JJ8jHgY8daEbDfrG2P/A3nuaGU=
-"]]}}, {}, {}, {{}, {}}},
 AspectRatio->0.6180339887498948,
 Axes->{True, True},
 AxesLabel->{None, None},
