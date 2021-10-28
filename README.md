@@ -4,7 +4,7 @@
 
 (*Quantum Annealing in Mathematica:Test the code for n>=3 Qubits, n>=2 Qubits needs some modifications in logic: The code will be used to study various types of feature selections and quantum annealing problems...........*)
 
-\[Sigma]x = {{0, 1}, {1, 0}};
+\[Sigma]x = {{0, 1}}, {{1, 0}};
 
 \[Sigma]y = {{0, -I}, {I, 0}};
 
