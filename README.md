@@ -150,7 +150,7 @@ eIgenqAnnealing[n_, k1_] := Module[{e1, e2, dim, diff},
 eIgenqAnnealing[3, 5]
 
 {\!\(\*
-GraphicsBox[{{}, {{}, {}, 
+GraphicsBox[{{}, {{}}, {}, 
 {RGBColor[0.368417, 0.506779, 0.709798], PointSize[0.01388888888888889], 
        AbsoluteThickness[1.6], LineBox[CompressedData["
 1:eJw1lAtQVGUUx+/dXUARfJIUpWCAgikyOCqi8VdkVDQTUEuUKBUwywQMSjFm
