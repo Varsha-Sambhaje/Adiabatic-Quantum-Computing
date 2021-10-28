@@ -1908,5 +1908,4 @@ ContentSelectable->True,
 ImageMargins->0.,
 ImageSize->{605.9999999999982, Automatic},
 PlotRangePadding->{6, 5}]\)
-
 Quit
